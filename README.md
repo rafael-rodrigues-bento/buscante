@@ -1,27 +1,46 @@
 # Buscante
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+Projeto em Angular com foco em RxJS, trata-se de uma aplicação com integração com a API de livros do Google aonde podemos fazer a busca por títulos, autores ou editoras.
 
-## Development server
+![Captura de tela de 2023-10-05 21-43-50](https://github.com/rafael-rodrigues-bento/buscante/assets/101301928/ab5e9733-89c3-4796-bf0c-ab0f0d94587b)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Aprendizados
 
-## Build
+- Ciclos do Observable
+- Operadores do RxJS
+- Pipes do Angular
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Rodando localmente
 
-## Running unit tests
+Clone o projeto
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```bash
+  git clone git@github.com:rafael-rodrigues-bento/buscante.git
+```
 
-## Running end-to-end tests
+Entre no diretório do projeto
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```bash
+  cd buscante
+```
 
-## Further help
+Instale as dependências
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+  npm install
+```
+
+Inicie o servidor
+
+```bash
+  npm run start
+```
+
+Acesse pelo navegador
+
+```
+  http://localhost:4200
+```
+
