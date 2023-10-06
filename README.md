@@ -2,9 +2,7 @@
 
 Projeto em Angular com foco em RxJS, trata-se de uma aplicação com integração com a API de livros do Google aonde podemos fazer a busca por títulos, autores ou editoras.
 
-![Captura de tela de 2023-10-05 21-43-50](https://github.com/rafael-rodrigues-bento/buscante/assets/101301928/ab5e9733-89c3-4796-bf0c-ab0f0d94587b)
-
-
+![Captura de tela de 2023-10-05 21-43-50](https://github.com/rafael-rodrigues-bento/buscante/assets/101301928/a0f046e6-96aa-45b0-8db8-a63731dbdbc0)
 
 ## Aprendizados
 
